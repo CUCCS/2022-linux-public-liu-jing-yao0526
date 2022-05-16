@@ -630,8 +630,8 @@ systemctl restart nginx.service
 - [解决apt占用](http://eleaction01.spaces.eepw.com.cn/articles/article/item/182626)
 - [ubuntu中mysql的安装配置](https://zhuanlan.zhihu.com/p/378765628)
 - [关于wordpress安装配置](https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-20-04-with-a-lamp-stack#:~:text=1%20Step%201%20%E2%80%94%20Creating%20a%20MySQL%20Database,we%20can%20download%20and%20set%20up...%20More%20)
-- [wordpress登录](https://cn.linux-console.net/?p=1601#:~:text=在Ubuntu 20.04中安装WordPress 1.一旦有了LEMP堆栈，请继续使用以下wget命令从其官方站点下载并设置WordPress。 %24,wget -c http%3A%2F%2Fwordpress.org%2Flatest.tar.gz 2.软件包下载完成后，使用tar命令提取存档文件，如下所示。)
 - [往届实践示例参考](https://github.com/CUCCS/linux-2020-cuc-Lynn/blob/chap0x05/chap0x05/chap0x05%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.md)
 - [nginx重启失败解决](https://blog.csdn.net/see__you__again/article/details/116123488)
 - [访问wordpress网页](https://cn.linux-console.net/?p=1601#:~:text=%E5%9C%A8Ubuntu%2020.04%E4%B8%AD%E5%AE%89%E8%A3%85WordPress%201.%E4%B8%80%E6%97%A6%E6%9C%89%E4%BA%86LEMP%E5%A0%86%E6%A0%88%EF%BC%8C%E8%AF%B7%E7%BB%A7%E7%BB%AD%E4%BD%BF%E7%94%A8%E4%BB%A5%E4%B8%8Bwget%E5%91%BD%E4%BB%A4%E4%BB%8E%E5%85%B6%E5%AE%98%E6%96%B9%E7%AB%99%E7%82%B9%E4%B8%8B%E8%BD%BD%E5%B9%B6%E8%AE%BE%E7%BD%AEWordPress%E3%80%82%20%24,wget%20-c%20http%3A%2F%2Fwordpress.org%2Flatest.tar.gz%202.%E8%BD%AF%E4%BB%B6%E5%8C%85%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%88%90%E5%90%8E%EF%BC%8C%E4%BD%BF%E7%94%A8tar%E5%91%BD%E4%BB%A4%E6%8F%90%E5%8F%96%E5%AD%98%E6%A1%A3%E6%96%87%E4%BB%B6%EF%BC%8C%E5%A6%82%E4%B8%8B%E6%89%80%E7%A4%BA%E3%80%82)
 - [dvwa sql injection](https://www.jianshu.com/p/e51cd8f15a84)
+
